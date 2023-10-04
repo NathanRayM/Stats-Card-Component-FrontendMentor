@@ -1,4 +1,4 @@
-![Stats Preview Card Component]()
+![Stats Preview Card Component](https://github.com/NathanRayM/Stats-Card-Component-FrontendMentor/blob/main/images/statspreviewcardSS.png)
 
 <h1 align="center">Stats Preview Card Component</h1>
 
