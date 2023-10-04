@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://nathanraym.github.io/Stats-Card-Component-FrontendMentor/)
+| [Solution](https://github.com/NathanRayM/Stats-Card-Component-FrontendMentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
