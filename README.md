@@ -36,4 +36,4 @@ One of my challenges for this was getting the color over the image correct. I am
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/stats-card-component-solution-using-flex-xm--hHHWWX). It definitely helps to find new ways to code and find easier solutions!
